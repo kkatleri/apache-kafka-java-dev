@@ -1,0 +1,3 @@
+com\autobots\kafka\UserConsumerApplication.class
+com\autobots\kafka\listener\UserConsumerListener.class
+com\autobots\kafka\dto\User.class
